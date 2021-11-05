@@ -52,7 +52,7 @@ public class FacebookManager
 	
 	//File name, File directory, and File path instantiations.
 	static String fileName = "USA01.txt";
-	static String fileDirectory = "E:\\WorkSpace\\Kamino\\src\\";
+	static String fileDirectory = "E:\\WorkSpace\\BLACKMAGIC\\src\\";
 	static String filePath = fileDirectory + fileName;
 	static String fileLine;
 	
